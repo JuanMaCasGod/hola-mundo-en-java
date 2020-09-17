@@ -4,7 +4,7 @@ Public class HolaMundo{
 		String naranja = "\033[33m";
 		String azul = "\033[34m";
 		
-		System.out.println("HolaMundo");
-		System.out.println("Nuevo HolaMundo");
+		System.out.println("HolaMundo"+nombre);
+		System.out.println("Nuevo HolaMundo"+apellido);
 	}
 }
